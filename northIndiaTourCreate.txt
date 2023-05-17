@@ -1,0 +1,22 @@
+name:North India Tour
+description:Best North India Tour you could ever wish for!
+difficulty:easy
+dates:2023-05-26T18:30:00.000Z
+dates:2023-04-25T18:30:00.000Z
+dates:2023-03-24T18:30:00.000Z
+dates:2023-09-26T18:30:00.000Z
+dates:2023-07-26T18:30:00.000Z
+dates:2023-12-26T18:30:00.000Z
+dates:2024-01-26T18:30:00.000Z
+locations[0][locationName]:Taj Mahal
+locations[0][locationLink]:https://www.google.com/maps/place/Taj+Mahal/@27.1751495,78.0395619,17z/data=!3m1!4b1!4m6!3m5!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422!16zL20vMGw4Y2I
+locations[1][locationName]:Qutub Minar
+locations[1][locationLink]:https://www.google.com/maps/place/Qutab+Minar,+Seth+Sarai,+Mehrauli,+New+Delhi,+Delhi+110016/@28.5244993,77.1829374,17z/data=!3m1!4b1!4m6!3m5!1s0x390d1e065dc72379:0xf6e7259f610de1d7!8m2!3d28.5244946!4d77.1855177!16zL20vMDNjX2g4
+locations[2][locationName]:Fatehpur Sikri
+locations[2][locationLink]:https://www.google.com/maps/place/Fatehpur+Sikri,+Uttar+Pradesh+283110/@27.0944705,77.652899,14z/data=!3m1!4b1!4m6!3m5!1s0x397391584a53798d:0x893d46790c1fb40!8m2!3d27.0945291!4d77.6679292!16zL20vMDF2cnp3
+duration:3
+participants:20
+price:2000
+rating:4
+guides:644924e246c297f222ff8ba6
+guides:6449251046c297f222ff8baa

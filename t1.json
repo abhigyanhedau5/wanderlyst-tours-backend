@@ -1,0 +1,82 @@
+{
+    "status": "success",
+    "data": {
+        "tour": {
+            "_id": "644a3b40d10d45e04741b6dd",
+            "name": "North India Tour",
+            "description": "Best Seaside Tour of the Decade",
+            "difficulty": "easy",
+            "dates": [
+                "2023-05-26T18:30:00.000Z",
+                "2023-09-26T18:30:00.000Z",
+                "2023-07-26T18:30:00.000Z",
+                "2024-01-26T18:30:00.000Z"
+            ],
+            "images": [
+                {
+                    "imageLink": "https://res.cloudinary.com/ds4l1uae7/image/upload/v1682605283/maz6wqjvugbkkivevt2o.jpg",
+                    "imagePublicId": "maz6wqjvugbkkivevt2o",
+                    "_id": "644a84e7f422441d601f2068"
+                },
+                {
+                    "imageLink": "https://res.cloudinary.com/ds4l1uae7/image/upload/v1682605287/bkujwwkaxnxjnoeb2ygk.jpg",
+                    "imagePublicId": "bkujwwkaxnxjnoeb2ygk",
+                    "_id": "644a84e7f422441d601f2069"
+                }
+            ],
+            "locations": [
+                {
+                    "locationName": "Taj Mahal",
+                    "locationLink": "https://www.google.com/maps/place/Taj+Mahal/@27.1751495,78.0395619,17z/data=!3m1!4b1!4m6!3m5!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422!16zL20vMGw4Y2I",
+                    "_id": "644a3b40d10d45e04741b6e1"
+                },
+                {
+                    "locationName": "Qutub Minar",
+                    "locationLink": "https://www.google.com/maps/place/Qutab+Minar,+Seth+Sarai,+Mehrauli,+New+Delhi,+Delhi+110016/@28.5244993,77.1829374,17z/data=!3m1!4b1!4m6!3m5!1s0x390d1e065dc72379:0xf6e7259f610de1d7!8m2!3d28.5244946!4d77.1855177!16zL20vMDNjX2g4",
+                    "_id": "644a3b40d10d45e04741b6e2"
+                },
+                {
+                    "locationName": "Fatehpur Sikri",
+                    "locationLink": "https://www.google.com/maps/place/Fatehpur+Sikri,+Uttar+Pradesh+283110/@27.0944705,77.652899,14z/data=!3m1!4b1!4m6!3m5!1s0x397391584a53798d:0x893d46790c1fb40!8m2!3d27.0945291!4d77.6679292!16zL20vMDF2cnp3",
+                    "_id": "644a3b40d10d45e04741b6e3"
+                }
+            ],
+            "duration": "3",
+            "participants": 70,
+            "price": 2000,
+            "rating": 4,
+            "guides": [
+                {
+                    "_id": "644924e246c297f222ff8ba6",
+                    "name": "Sanjay Gorti",
+                    "email": "sanjayg@gmail.com",
+                    "address": "Mumbai",
+                    "phoneNumber": "7410258960",
+                    "age": 12,
+                    "salary": 74100,
+                    "image": "https://res.cloudinary.com/dviyqhmkb/image/upload/v1674681062/defaultProfile_akmzpv.webp",
+                    "imagePublicId": null,
+                    "role": "guide",
+                    "toursBooked": [],
+                    "__v": 0
+                },
+                {
+                    "_id": "6449251046c297f222ff8baa",
+                    "name": "Poonam Cheema",
+                    "email": "poonamc@gmail.com",
+                    "address": "Patna",
+                    "phoneNumber": "7539651748",
+                    "age": 21,
+                    "salary": 85200,
+                    "image": "https://res.cloudinary.com/ds4l1uae7/image/upload/v1682515214/ht2kqkfdncz6pmjxkxyw.jpg",
+                    "imagePublicId": "ht2kqkfdncz6pmjxkxyw",
+                    "role": "guide",
+                    "toursBooked": [],
+                    "__v": 0
+                }
+            ],
+            "reviews": [],
+            "__v": 0
+        }
+    }
+}

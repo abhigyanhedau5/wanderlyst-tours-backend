@@ -1,0 +1,46 @@
+name:Beaches Tour
+description:Best Beaches Tour you could ever wish for!
+difficulty:medium
+dates:2023-05-15T18:30:00.000Z
+dates:2023-06-17T18:30:00.000Z
+dates:2023-07-22T18:30:00.000Z
+dates:2023-08-17T18:30:00.000Z
+dates:2023-09-04T18:30:00.000Z
+dates:2023-10-02T18:30:00.000Z
+dates:2023-10-25T18:30:00.000Z
+dates:2023-12-24T18:30:00.000Z
+dates:2022-01-15T18:30:00.000Z
+dates:2022-02-22T18:30:00.000Z
+dates:2022-03-01T18:30:00.000Z
+dates:2022-04-21T18:30:00.000Z
+dates:2022-05-05T18:30:00.000Z
+dates:2022-06-02T18:30:00.000Z
+dates:2022-07-17T18:30:00.000Z
+dates:2022-08-03T18:30:00.000Z
+dates:2022-09-21T18:30:00.000Z
+dates:2022-10-16T18:30:00.000Z
+dates:2022-11-13T18:30:00.000Z
+dates:2022-12-18T18:30:00.000Z
+dates:2024-01-03T18:30:00.000Z
+dates:2024-02-04T18:30:00.000Z
+dates:2024-03-11T18:30:00.000Z
+dates:2024-04-10T18:30:00.000Z
+dates:2024-05-09T18:30:00.000Z
+dates:2024-06-07T18:30:00.000Z
+dates:2024-07-06T18:30:00.000Z
+dates:2024-08-11T18:30:00.000Z
+dates:2024-09-16T18:30:00.000Z
+dates:2024-10-06T18:30:00.000Z
+dates:2024-11-11T18:30:00.000Z
+dates:2024-12-18T18:30:00.000Z
+locations[0][locationName]:Baga Beach
+locations[0][locationLink]:https://goo.gl/maps/RysPkqkmj5wGb5Uc7
+locations[1][locationName]:Calangute Beach
+locations[1][locationLink]:https://www.google.com/maps/place/Calangute+Beach/@15.5468759,73.733047,14z/data=!3m1!4b1!4m6!3m5!1s0x3bbfea0148f4ed2b:0xcb592fad5d257d17!8m2!3d15.549441!4d73.7534857!16s%2Fg%2F1tfkzn7s
+locations[2][locationName]:Palolem Beach
+locations[2][locationLink]:https://www.google.com/maps/place/Palolem+Beach/@15.0093045,74.0162366,16z/data=!3m1!4b1!4m6!3m5!1s0x3bbe4551d05b02bb:0x1e1bc67d4b0fbbf5!8m2!3d15.0099648!4d74.0232186!16zL20vMDgxZ3B3
+duration:10
+participants:35
+price:10000
+guides:6449261846c297f222ff8bd3
+guides:644925e246c297f222ff8bc7
